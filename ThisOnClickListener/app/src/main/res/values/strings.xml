@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThisOnClickListener</string>
+    <string name="hello_world">OnClickListener</string>
+
+</resources>
